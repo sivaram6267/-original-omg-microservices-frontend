@@ -3,7 +3,7 @@ import axios from "axios";
 // const BASE_URL = "http://10.81.4.193:2022"; // srikanth pc
 
 // const BASE_URL = "http://10.81.4.184:2022";
-const BASE_URL = "http://34.213.79.131:2022"; // pavan USERNAME:Rajesh@gmail.com password:rajesh
+const BASE_URL = "http://aea4cdbe5ce584f98b5bebdfcc8f3e94-1617178144.us-west-1.elb.amazonaws.com:2022"; // pavan USERNAME:Rajesh@gmail.com password:rajesh
 
 //post
 const LOGIN_API_URL = `${BASE_URL}/api/login`;
